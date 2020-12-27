@@ -20,7 +20,7 @@ $$
 
 $$
 \min \limits_{\alpha}\frac{1}{2}\displaystyle\sum_{i=1}^m\sum_{j=1}^m
-\alpha_i\alpha_jy_iy_jx_i^tx_j-\displaystyle\sum_{i=1}^m\alpha_i \\
+\alpha_i\alpha_jy_iy_jx_i^Tx_j-\displaystyle\sum_{i=1}^m\alpha_i \\
 s.t. \ \ \displaystyle\sum_{i=1}^m\alpha_iy_i=0, \\
 \alpha_i \geq 0 \ (i \in [m])   \tag{1.63}
 $$
